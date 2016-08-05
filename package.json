@@ -1,0 +1,25 @@
+{
+  "name": "videogular-demo",
+  "version": "1.0.0",
+  "description": "Videogular an angularjs plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saurabh1294"
+  },
+  "keywords": [
+    "video",
+    "angular",
+    "videogular",
+    "playlist"
+  ],
+  "author": "Saurabh S. Gattani",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
